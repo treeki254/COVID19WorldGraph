@@ -16,6 +16,7 @@ fileYear = datetime.date.today().strftime('%Y')
 
 country = []
 totCase = []
+continent = [] # append continent index in 2020. 5. 22.
 
 nationLink = [] # www.worldometers.info/coronavirus/ + 'country/name'
 
@@ -52,6 +53,7 @@ def scrapingWorldometers():
                 country.append(rows[1].text.strip())
                 nationLink.append(rows[1].a["href"])
                 totCase.append(cases)
+                continent.append(rows[14].text.strip())
             else:
                 continue
                 
@@ -95,12 +97,12 @@ def scrapingWorldometers():
                     deathDataEndIdx = frontCut.find("]")
                     deathDataList = frontCut[deathDataStartIdx:deathDataEndIdx].split(",")
         
-        nationDict = {"Country": country[nationLink.index(link)], "Date":dateList, "TotalCases":caseDataList, "TotalDeaths":deathDataList}
+        nationDict = {"Country": country[nationLink.index(link)], "Date":dateList, "Continent": continent[nationLink.index(link)], "TotalCases":caseDataList, "TotalDeaths":deathDataList}
         dfByNation = pd.DataFrame(nationDict)
         df = pd.concat([df, dfByNation])
         
     df["Date"] = df["Date"].astype(str) # datetime64[ns] -> str
-    df = df.set_index(["Country", "Date"])
+    df = df.set_index(["Country", "Date", "Continent"]) # append continent index in 2020. 5. 22.
     return df
 
 
