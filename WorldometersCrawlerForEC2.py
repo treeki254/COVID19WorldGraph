@@ -53,7 +53,7 @@ def scrapingWorldometers():
                 country.append(rows[1].text.strip())
                 nationLink.append(rows[1].a["href"])
                 totCase.append(cases)
-                continent.append(rows[14].text.strip())
+                continent.append(rows[14].text.strip()) # newRecov column was added, so that index changed in 5. 29. # newRecov was removed in 5. 30.
             else:
                 continue
                 
