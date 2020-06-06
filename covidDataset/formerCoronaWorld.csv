@@ -1,0 +1,601 @@
+﻿Country,Date,Continent,TotalCases,TotalDeaths
+S. Korea,2020-01-20,Asia,1,0
+S. Korea,2020-01-21,Asia,1,0
+S. Korea,2020-01-22,Asia,1,0
+S. Korea,2020-01-23,Asia,2,0
+S. Korea,2020-01-24,Asia,2,0
+S. Korea,2020-01-25,Asia,2,0
+S. Korea,2020-01-26,Asia,4,0
+S. Korea,2020-01-27,Asia,4,0
+S. Korea,2020-01-28,Asia,4,0
+S. Korea,2020-01-29,Asia,4,0
+S. Korea,2020-01-30,Asia,11,0
+S. Korea,2020-01-31,Asia,12,0
+S. Korea,2020-02-01,Asia,15,0
+S. Korea,2020-02-02,Asia,15,0
+S. Korea,2020-02-03,Asia,16,0
+S. Korea,2020-02-04,Asia,18,0
+S. Korea,2020-02-05,Asia,23,0
+S. Korea,2020-02-06,Asia,24,0
+S. Korea,2020-02-07,Asia,24,0
+S. Korea,2020-02-08,Asia,27,0
+S. Korea,2020-02-09,Asia,28,0
+S. Korea,2020-02-10,Asia,28,0
+S. Korea,2020-02-11,Asia,28,0
+S. Korea,2020-02-12,Asia,28,0
+S. Korea,2020-02-13,Asia,28,0
+S. Korea,2020-02-14,Asia,28,0
+Japan,2020-01-20,Asia,1,0
+Japan,2020-01-21,Asia,1,0
+Japan,2020-01-22,Asia,1,0
+Japan,2020-01-23,Asia,1,0
+Japan,2020-01-24,Asia,3,0
+Japan,2020-01-25,Asia,3,0
+Japan,2020-01-26,Asia,4,0
+Japan,2020-01-27,Asia,6,0
+Japan,2020-01-28,Asia,7,0
+Japan,2020-01-29,Asia,11,0
+Japan,2020-01-30,Asia,14,0
+Japan,2020-01-31,Asia,17,0
+Japan,2020-02-01,Asia,20,0
+Japan,2020-02-02,Asia,20,0
+Japan,2020-02-03,Asia,20,0
+Japan,2020-02-04,Asia,33,0
+Japan,2020-02-05,Asia,25,0
+Japan,2020-02-06,Asia,25,0
+Japan,2020-02-07,Asia,25,0
+Japan,2020-02-08,Asia,26,0
+Japan,2020-02-09,Asia,26,0
+Japan,2020-02-10,Asia,26,0
+Japan,2020-02-11,Asia,28,0
+Japan,2020-02-12,Asia,29,0
+Japan,2020-02-13,Asia,33,1
+Japan,2020-02-14,Asia,41,1
+USA,2020-01-20,North America,0,0
+USA,2020-01-21,North America,0,0
+USA,2020-01-22,North America,1,0
+USA,2020-01-23,North America,1,0
+USA,2020-01-24,North America,2,0
+USA,2020-01-25,North America,2,0
+USA,2020-01-26,North America,5,0
+USA,2020-01-27,North America,5,0
+USA,2020-01-28,North America,5,0
+USA,2020-01-29,North America,5,0
+USA,2020-01-30,North America,6,0
+USA,2020-01-31,North America,7,0
+USA,2020-02-01,North America,8,0
+USA,2020-02-02,North America,11,0
+USA,2020-02-03,North America,11,0
+USA,2020-02-04,North America,11,0
+USA,2020-02-05,North America,12,0
+USA,2020-02-06,North America,12,0
+USA,2020-02-07,North America,12,0
+USA,2020-02-08,North America,12,0
+USA,2020-02-09,North America,13,0
+USA,2020-02-10,North America,13,0
+USA,2020-02-11,North America,13,0
+USA,2020-02-12,North America,14,0
+USA,2020-02-13,North America,15,0
+USA,2020-02-14,North America,15,0
+Italy,2020-01-20,Europe,0,0
+Italy,2020-01-21,Europe,0,0
+Italy,2020-01-22,Europe,0,0
+Italy,2020-01-23,Europe,0,0
+Italy,2020-01-24,Europe,0,0
+Italy,2020-01-25,Europe,0,0
+Italy,2020-01-26,Europe,0,0
+Italy,2020-01-27,Europe,0,0
+Italy,2020-01-28,Europe,0,0
+Italy,2020-01-29,Europe,0,0
+Italy,2020-01-30,Europe,2,0
+Italy,2020-01-31,Europe,2,0
+Italy,2020-02-01,Europe,2,0
+Italy,2020-02-02,Europe,2,0
+Italy,2020-02-03,Europe,2,0
+Italy,2020-02-04,Europe,2,0
+Italy,2020-02-05,Europe,2,0
+Italy,2020-02-06,Europe,3,0
+Italy,2020-02-07,Europe,3,0
+Italy,2020-02-08,Europe,3,0
+Italy,2020-02-09,Europe,3,0
+Italy,2020-02-10,Europe,3,0
+Italy,2020-02-11,Europe,3,0
+Italy,2020-02-12,Europe,3,0
+Italy,2020-02-13,Europe,3,0
+Italy,2020-02-14,Europe,3,0
+Spain,2020-01-20,Europe,0,0
+Spain,2020-01-21,Europe,0,0
+Spain,2020-01-22,Europe,0,0
+Spain,2020-01-23,Europe,0,0
+Spain,2020-01-24,Europe,0,0
+Spain,2020-01-25,Europe,0,0
+Spain,2020-01-26,Europe,0,0
+Spain,2020-01-27,Europe,0,0
+Spain,2020-01-28,Europe,0,0
+Spain,2020-01-29,Europe,0,0
+Spain,2020-01-30,Europe,0,0
+Spain,2020-01-31,Europe,1,0
+Spain,2020-02-01,Europe,1,0
+Spain,2020-02-02,Europe,1,0
+Spain,2020-02-03,Europe,1,0
+Spain,2020-02-04,Europe,1,0
+Spain,2020-02-05,Europe,1,0
+Spain,2020-02-06,Europe,1,0
+Spain,2020-02-07,Europe,1,0
+Spain,2020-02-08,Europe,1,0
+Spain,2020-02-09,Europe,2,0
+Spain,2020-02-10,Europe,2,0
+Spain,2020-02-11,Europe,2,0
+Spain,2020-02-12,Europe,2,0
+Spain,2020-02-13,Europe,2,0
+Spain,2020-02-14,Europe,2,0
+China,2020-01-20,Asia,278,0
+China,2020-01-21,Asia,310,0
+Germany,2020-01-20,Europe,0,0
+Germany,2020-01-21,Europe,0,0
+Germany,2020-01-22,Europe,0,0
+Germany,2020-01-23,Europe,0,0
+Germany,2020-01-24,Europe,0,0
+Germany,2020-01-25,Europe,0,0
+Germany,2020-01-26,Europe,0,0
+Germany,2020-01-27,Europe,1,0
+Germany,2020-01-28,Europe,4,0
+Germany,2020-01-29,Europe,4,0
+Germany,2020-01-30,Europe,5,0
+Germany,2020-01-31,Europe,7,0
+Germany,2020-02-01,Europe,8,0
+Germany,2020-02-02,Europe,10,0
+Germany,2020-02-03,Europe,12,0
+Germany,2020-02-04,Europe,12,0
+Germany,2020-02-05,Europe,12,0
+Germany,2020-02-06,Europe,13,0
+Germany,2020-02-07,Europe,14,0
+Germany,2020-02-08,Europe,14,0
+Germany,2020-02-09,Europe,14,0
+Germany,2020-02-10,Europe,14,0
+Germany,2020-02-11,Europe,16,0
+Germany,2020-02-12,Europe,16,0
+Germany,2020-02-13,Europe,16,0
+Germany,2020-02-14,Europe,16,0
+France,2020-01-20,Europe,0,0
+France,2020-01-21,Europe,0,0
+France,2020-01-22,Europe,0,0
+France,2020-01-23,Europe,0,0
+France,2020-01-24,Europe,3,0
+France,2020-01-25,Europe,3,0
+France,2020-01-26,Europe,3,0
+France,2020-01-27,Europe,3,0
+France,2020-01-28,Europe,4,0
+France,2020-01-29,Europe,5,0
+France,2020-01-30,Europe,6,0
+France,2020-01-31,Europe,6,0
+France,2020-02-01,Europe,6,0
+France,2020-02-02,Europe,6,0
+France,2020-02-03,Europe,6,0
+France,2020-02-04,Europe,6,0
+France,2020-02-05,Europe,6,0
+France,2020-02-06,Europe,6,0
+France,2020-02-07,Europe,6,0
+France,2020-02-08,Europe,11,0
+France,2020-02-09,Europe,11,0
+France,2020-02-10,Europe,11,0
+France,2020-02-11,Europe,11,0
+France,2020-02-12,Europe,11,0
+France,2020-02-13,Europe,11,0
+France,2020-02-14,Europe,11,0
+UK,2020-01-20,Europe,0,0
+UK,2020-01-21,Europe,0,0
+UK,2020-01-22,Europe,0,0
+UK,2020-01-23,Europe,0,0
+UK,2020-01-24,Europe,0,0
+UK,2020-01-25,Europe,0,0
+UK,2020-01-26,Europe,0,0
+UK,2020-01-27,Europe,0,0
+UK,2020-01-28,Europe,0,0
+UK,2020-01-29,Europe,0,0
+UK,2020-01-30,Europe,0,0
+UK,2020-01-31,Europe,2,0
+UK,2020-02-01,Europe,2,0
+UK,2020-02-02,Europe,2,0
+UK,2020-02-03,Europe,2,0
+UK,2020-02-04,Europe,2,0
+UK,2020-02-05,Europe,2,0
+UK,2020-02-06,Europe,3,0
+UK,2020-02-07,Europe,3,0
+UK,2020-02-08,Europe,3,0
+UK,2020-02-09,Europe,8,0
+UK,2020-02-10,Europe,8,0
+UK,2020-02-11,Europe,8,0
+UK,2020-02-12,Europe,9,0
+UK,2020-02-13,Europe,9,0
+UK,2020-02-14,Europe,9,0
+Belgium,2020-01-20,Europe,0,0
+Belgium,2020-01-21,Europe,0,0
+Belgium,2020-01-22,Europe,0,0
+Belgium,2020-01-23,Europe,0,0
+Belgium,2020-01-24,Europe,0,0
+Belgium,2020-01-25,Europe,0,0
+Belgium,2020-01-26,Europe,0,0
+Belgium,2020-01-27,Europe,0,0
+Belgium,2020-01-28,Europe,0,0
+Belgium,2020-01-29,Europe,0,0
+Belgium,2020-01-30,Europe,0,0
+Belgium,2020-01-31,Europe,0,0
+Belgium,2020-02-01,Europe,0,0
+Belgium,2020-02-02,Europe,0,0
+Belgium,2020-02-03,Europe,0,0
+Belgium,2020-02-04,Europe,1,0
+Belgium,2020-02-05,Europe,1,0
+Belgium,2020-02-06,Europe,1,0
+Belgium,2020-02-07,Europe,1,0
+Belgium,2020-02-08,Europe,1,0
+Belgium,2020-02-09,Europe,1,0
+Belgium,2020-02-10,Europe,1,0
+Belgium,2020-02-11,Europe,1,0
+Belgium,2020-02-12,Europe,1,0
+Belgium,2020-02-13,Europe,1,0
+Belgium,2020-02-14,Europe,1,0
+Canada,2020-01-20,North America,0,0
+Canada,2020-01-21,North America,0,0
+Canada,2020-01-22,North America,0,0
+Canada,2020-01-23,North America,0,0
+Canada,2020-01-24,North America,0,0
+Canada,2020-01-25,North America,0,0
+Canada,2020-01-26,North America,1,0
+Canada,2020-01-27,North America,2,0
+Canada,2020-01-28,North America,3,0
+Canada,2020-01-29,North America,3,0
+Canada,2020-01-30,North America,3,0
+Canada,2020-01-31,North America,4,0
+Canada,2020-02-01,North America,4,0
+Canada,2020-02-02,North America,4,0
+Canada,2020-02-03,North America,4,0
+Canada,2020-02-04,North America,5,0
+Canada,2020-02-05,North America,5,0
+Canada,2020-02-06,North America,7,0
+Canada,2020-02-07,North America,7,0
+Canada,2020-02-08,North America,7,0
+Canada,2020-02-09,North America,7,0
+Canada,2020-02-10,North America,7,0
+Canada,2020-02-11,North America,7,0
+Canada,2020-02-12,North America,7,0
+Canada,2020-02-13,North America,7,0
+Canada,2020-02-14,North America,7,0
+Australia,2020-01-20,Australia/Oceania,0,0
+Australia,2020-01-21,Australia/Oceania,0,0
+Australia,2020-01-22,Australia/Oceania,0,0
+Australia,2020-01-23,Australia/Oceania,0,0
+Australia,2020-01-24,Australia/Oceania,3,0
+Australia,2020-01-25,Australia/Oceania,4,0
+Australia,2020-01-26,Australia/Oceania,4,0
+Australia,2020-01-27,Australia/Oceania,5,0
+Australia,2020-01-28,Australia/Oceania,7,0
+Australia,2020-01-29,Australia/Oceania,7,0
+Australia,2020-01-30,Australia/Oceania,9,0
+Australia,2020-01-31,Australia/Oceania,12,0
+Australia,2020-02-01,Australia/Oceania,12,0
+Australia,2020-02-02,Australia/Oceania,12,0
+Australia,2020-02-03,Australia/Oceania,12,0
+Australia,2020-02-04,Australia/Oceania,13,0
+Australia,2020-02-05,Australia/Oceania,14,0
+Australia,2020-02-06,Australia/Oceania,15,0
+Australia,2020-02-07,Australia/Oceania,15,0
+Australia,2020-02-08,Australia/Oceania,15,0
+Australia,2020-02-09,Australia/Oceania,15,0
+Australia,2020-02-10,Australia/Oceania,15,0
+Australia,2020-02-11,Australia/Oceania,15,0
+Australia,2020-02-12,Australia/Oceania,15,0
+Australia,2020-02-13,Australia/Oceania,15,0
+Australia,2020-02-14,Australia/Oceania,15,0
+Sweden,2020-01-20,Europe,0,0
+Sweden,2020-01-21,Europe,0,0
+Sweden,2020-01-22,Europe,0,0
+Sweden,2020-01-23,Europe,0,0
+Sweden,2020-01-24,Europe,0,0
+Sweden,2020-01-25,Europe,0,0
+Sweden,2020-01-26,Europe,0,0
+Sweden,2020-01-27,Europe,0,0
+Sweden,2020-01-28,Europe,0,0
+Sweden,2020-01-29,Europe,0,0
+Sweden,2020-01-30,Europe,0,0
+Sweden,2020-01-31,Europe,1,0
+Sweden,2020-02-01,Europe,1,0
+Sweden,2020-02-02,Europe,1,0
+Sweden,2020-02-03,Europe,1,0
+Sweden,2020-02-04,Europe,1,0
+Sweden,2020-02-05,Europe,1,0
+Sweden,2020-02-06,Europe,1,0
+Sweden,2020-02-07,Europe,1,0
+Sweden,2020-02-08,Europe,1,0
+Sweden,2020-02-09,Europe,1,0
+Sweden,2020-02-10,Europe,1,0
+Sweden,2020-02-11,Europe,1,0
+Sweden,2020-02-12,Europe,1,0
+Sweden,2020-02-13,Europe,1,0
+Sweden,2020-02-14,Europe,1,0
+Malaysia,2020-01-20,Asia,0,0
+Malaysia,2020-01-21,Asia,0,0
+Malaysia,2020-01-22,Asia,0,0
+Malaysia,2020-01-23,Asia,0,0
+Malaysia,2020-01-24,Asia,0,0
+Malaysia,2020-01-25,Asia,3,0
+Malaysia,2020-01-26,Asia,4,0
+Malaysia,2020-01-27,Asia,4,0
+Malaysia,2020-01-28,Asia,4,0
+Malaysia,2020-01-29,Asia,7,0
+Malaysia,2020-01-30,Asia,8,0
+Malaysia,2020-01-31,Asia,8,0
+Malaysia,2020-02-01,Asia,8,0
+Malaysia,2020-02-02,Asia,8,0
+Malaysia,2020-02-03,Asia,10,0
+Malaysia,2020-02-04,Asia,10,0
+Malaysia,2020-02-05,Asia,12,0
+Malaysia,2020-02-06,Asia,14,0
+Malaysia,2020-02-07,Asia,15,0
+Malaysia,2020-02-08,Asia,17,0
+Malaysia,2020-02-09,Asia,18,0
+Malaysia,2020-02-10,Asia,18,0
+Malaysia,2020-02-11,Asia,18,0
+Malaysia,2020-02-12,Asia,18,0
+Malaysia,2020-02-13,Asia,19,0
+Malaysia,2020-02-14,Asia,21,0
+Philippines,2020-01-20,Asia,0,0
+Philippines,2020-01-21,Asia,0,0
+Philippines,2020-01-22,Asia,0,0
+Philippines,2020-01-23,Asia,0,0
+Philippines,2020-01-24,Asia,0,0
+Philippines,2020-01-25,Asia,0,0
+Philippines,2020-01-26,Asia,0,0
+Philippines,2020-01-27,Asia,0,0
+Philippines,2020-01-28,Asia,0,0
+Philippines,2020-01-29,Asia,1,0
+Philippines,2020-01-30,Asia,1,0
+Philippines,2020-01-31,Asia,1,0
+Philippines,2020-02-01,Asia,2,0
+Philippines,2020-02-02,Asia,2,1
+Philippines,2020-02-03,Asia,2,1
+Philippines,2020-02-04,Asia,3,1
+Philippines,2020-02-05,Asia,3,1
+Philippines,2020-02-06,Asia,3,1
+Philippines,2020-02-07,Asia,3,1
+Philippines,2020-02-08,Asia,3,1
+Philippines,2020-02-09,Asia,3,1
+Philippines,2020-02-10,Asia,3,1
+Philippines,2020-02-11,Asia,3,1
+Philippines,2020-02-12,Asia,3,1
+Philippines,2020-02-13,Asia,3,1
+Philippines,2020-02-14,Asia,3,1
+India,2020-01-20,Asia,0,0
+India,2020-01-21,Asia,0,0
+India,2020-01-22,Asia,0,0
+India,2020-01-23,Asia,0,0
+India,2020-01-24,Asia,0,0
+India,2020-01-25,Asia,0,0
+India,2020-01-26,Asia,0,0
+India,2020-01-27,Asia,0,0
+India,2020-01-28,Asia,0,0
+India,2020-01-29,Asia,1,0
+India,2020-01-30,Asia,1,0
+India,2020-01-31,Asia,1,0
+India,2020-02-01,Asia,2,0
+India,2020-02-02,Asia,3,0
+India,2020-02-03,Asia,3,0
+India,2020-02-04,Asia,3,0
+India,2020-02-05,Asia,3,0
+India,2020-02-06,Asia,3,0
+India,2020-02-07,Asia,3,0
+India,2020-02-08,Asia,3,0
+India,2020-02-09,Asia,3,0
+India,2020-02-10,Asia,3,0
+India,2020-02-11,Asia,3,0
+India,2020-02-12,Asia,3,0
+India,2020-02-13,Asia,3,0
+India,2020-02-14,Asia,3,0
+Hong Kong,2020-01-20,Asia,0,0
+Hong Kong,2020-01-21,Asia,0,0
+Hong Kong,2020-01-22,Asia,0,0
+Hong Kong,2020-01-23,Asia,0,0
+Hong Kong,2020-01-24,Asia,0,0
+Hong Kong,2020-01-25,Asia,2,0
+Hong Kong,2020-01-26,Asia,5,0
+Hong Kong,2020-01-27,Asia,8,0
+Hong Kong,2020-01-28,Asia,9,0
+Hong Kong,2020-01-29,Asia,10,0
+Hong Kong,2020-01-30,Asia,11,0
+Hong Kong,2020-01-31,Asia,13,0
+Hong Kong,2020-02-01,Asia,14,0
+Hong Kong,2020-02-02,Asia,15,0
+Hong Kong,2020-02-03,Asia,15,0
+Hong Kong,2020-02-04,Asia,18,0
+Hong Kong,2020-02-05,Asia,21,0
+Hong Kong,2020-02-06,Asia,24,0
+Hong Kong,2020-02-07,Asia,26,0
+Hong Kong,2020-02-08,Asia,26,0
+Hong Kong,2020-02-09,Asia,36,0
+Hong Kong,2020-02-10,Asia,42,0
+Hong Kong,2020-02-11,Asia,49,1
+Hong Kong,2020-02-12,Asia,50,1
+Hong Kong,2020-02-13,Asia,53,1
+Hong Kong,2020-02-14,Asia,56,1
+Russia,2020-01-20,Europe,0,0
+Russia,2020-01-21,Europe,0,0
+Russia,2020-01-22,Europe,0,0
+Russia,2020-01-23,Europe,0,0
+Russia,2020-01-24,Europe,0,0
+Russia,2020-01-25,Europe,0,0
+Russia,2020-01-26,Europe,0,0
+Russia,2020-01-27,Europe,0,0
+Russia,2020-01-28,Europe,0,0
+Russia,2020-01-29,Europe,0,0
+Russia,2020-01-30,Europe,0,0
+Russia,2020-01-31,Europe,2,0
+Russia,2020-02-01,Europe,2,0
+Russia,2020-02-02,Europe,2,0
+Russia,2020-02-03,Europe,2,0
+Russia,2020-02-04,Europe,2,0
+Russia,2020-02-05,Europe,2,0
+Russia,2020-02-06,Europe,2,0
+Russia,2020-02-07,Europe,2,0
+Russia,2020-02-08,Europe,2,0
+Russia,2020-02-09,Europe,2,0
+Russia,2020-02-10,Europe,2,0
+Russia,2020-02-11,Europe,2,0
+Russia,2020-02-12,Europe,2,0
+Russia,2020-02-13,Europe,2,0
+Russia,2020-02-14,Europe,2,0
+Thailand,2020-01-20,Asia,1,0
+Thailand,2020-01-21,Asia,1,0
+Thailand,2020-01-22,Asia,1,0
+Thailand,2020-01-23,Asia,4,0
+Thailand,2020-01-24,Asia,4,0
+Thailand,2020-01-25,Asia,5,0
+Thailand,2020-01-26,Asia,5,0
+Thailand,2020-01-27,Asia,14,0
+Thailand,2020-01-28,Asia,14,0
+Thailand,2020-01-29,Asia,14,0
+Thailand,2020-01-30,Asia,14,0
+Thailand,2020-01-31,Asia,19,0
+Thailand,2020-02-01,Asia,19,0
+Thailand,2020-02-02,Asia,19,0
+Thailand,2020-02-03,Asia,19,0
+Thailand,2020-02-04,Asia,25,0
+Thailand,2020-02-05,Asia,25,0
+Thailand,2020-02-06,Asia,25,0
+Thailand,2020-02-07,Asia,32,0
+Thailand,2020-02-08,Asia,32,0
+Thailand,2020-02-09,Asia,33,0
+Thailand,2020-02-10,Asia,33,0
+Thailand,2020-02-11,Asia,33,0
+Thailand,2020-02-12,Asia,33,0
+Thailand,2020-02-13,Asia,33,0
+Thailand,2020-02-14,Asia,34,0
+Finland,2020-01-20,Europe,0,0
+Finland,2020-01-21,Europe,0,0
+Finland,2020-01-22,Europe,0,0
+Finland,2020-01-23,Europe,0,0
+Finland,2020-01-24,Europe,0,0
+Finland,2020-01-25,Europe,0,0
+Finland,2020-01-26,Europe,0,0
+Finland,2020-01-27,Europe,0,0
+Finland,2020-01-28,Europe,0,0
+Finland,2020-01-29,Europe,1,0
+Finland,2020-01-30,Europe,1,0
+Finland,2020-01-31,Europe,1,0
+Finland,2020-02-01,Europe,1,0
+Finland,2020-02-02,Europe,1,0
+Finland,2020-02-03,Europe,1,0
+Finland,2020-02-04,Europe,1,0
+Finland,2020-02-05,Europe,1,0
+Finland,2020-02-06,Europe,1,0
+Finland,2020-02-07,Europe,1,0
+Finland,2020-02-08,Europe,1,0
+Finland,2020-02-09,Europe,1,0
+Finland,2020-02-10,Europe,1,0
+Finland,2020-02-11,Europe,1,0
+Finland,2020-02-12,Europe,1,0
+Finland,2020-02-13,Europe,1,0
+Finland,2020-02-14,Europe,1,0
+UAE,2020-01-20,Asia,0,0
+UAE,2020-01-21,Asia,0,0
+UAE,2020-01-22,Asia,0,0
+UAE,2020-01-23,Asia,0,0
+UAE,2020-01-24,Asia,0,0
+UAE,2020-01-25,Asia,0,0
+UAE,2020-01-26,Asia,0,0
+UAE,2020-01-27,Asia,0,0
+UAE,2020-01-28,Asia,4,0
+UAE,2020-01-29,Asia,4,0
+UAE,2020-01-30,Asia,4,0
+UAE,2020-01-31,Asia,4,0
+UAE,2020-02-01,Asia,5,0
+UAE,2020-02-02,Asia,5,0
+UAE,2020-02-03,Asia,5,0
+UAE,2020-02-04,Asia,5,0
+UAE,2020-02-05,Asia,5,0
+UAE,2020-02-06,Asia,5,0
+UAE,2020-02-07,Asia,7,0
+UAE,2020-02-08,Asia,7,0
+UAE,2020-02-09,Asia,8,0
+UAE,2020-02-10,Asia,8,0
+UAE,2020-02-11,Asia,8,0
+UAE,2020-02-12,Asia,8,0
+UAE,2020-02-13,Asia,8,0
+UAE,2020-02-14,Asia,8,0
+Singapore,2020-01-20,Asia,0,0
+Singapore,2020-01-21,Asia,0,0
+Singapore,2020-01-22,Asia,0,0
+Singapore,2020-01-23,Asia,1,0
+Singapore,2020-01-24,Asia,3,0
+Singapore,2020-01-25,Asia,4,0
+Singapore,2020-01-26,Asia,4,0
+Singapore,2020-01-27,Asia,7,0
+Singapore,2020-01-28,Asia,7,0
+Singapore,2020-01-29,Asia,10,0
+Singapore,2020-01-30,Asia,13,0
+Singapore,2020-01-31,Asia,16,0
+Singapore,2020-02-01,Asia,18,0
+Singapore,2020-02-02,Asia,18,0
+Singapore,2020-02-03,Asia,18,0
+Singapore,2020-02-04,Asia,24,0
+Singapore,2020-02-05,Asia,28,0
+Singapore,2020-02-06,Asia,30,0
+Singapore,2020-02-07,Asia,33,0
+Singapore,2020-02-08,Asia,40,0
+Singapore,2020-02-09,Asia,45,0
+Singapore,2020-02-10,Asia,45,0
+Singapore,2020-02-11,Asia,47,0
+Singapore,2020-02-12,Asia,50,0
+Singapore,2020-02-13,Asia,58,0
+Singapore,2020-02-14,Asia,67,0
+Nepal,2020-01-20,Asia,0,0
+Nepal,2020-01-21,Asia,0,0
+Nepal,2020-01-22,Asia,0,0
+Nepal,2020-01-23,Asia,0,0
+Nepal,2020-01-24,Asia,1,0
+Nepal,2020-01-25,Asia,1,0
+Nepal,2020-01-26,Asia,1,0
+Nepal,2020-01-27,Asia,1,0
+Nepal,2020-01-28,Asia,1,0
+Nepal,2020-01-29,Asia,1,0
+Nepal,2020-01-30,Asia,1,0
+Nepal,2020-01-31,Asia,1,0
+Nepal,2020-02-01,Asia,1,0
+Nepal,2020-02-02,Asia,1,0
+Nepal,2020-02-03,Asia,1,0
+Nepal,2020-02-04,Asia,1,0
+Nepal,2020-02-05,Asia,1,0
+Nepal,2020-02-06,Asia,1,0
+Nepal,2020-02-07,Asia,1,0
+Nepal,2020-02-08,Asia,1,0
+Nepal,2020-02-09,Asia,1,0
+Nepal,2020-02-10,Asia,1,0
+Nepal,2020-02-11,Asia,1,0
+Nepal,2020-02-12,Asia,1,0
+Nepal,2020-02-13,Asia,1,0
+Nepal,2020-02-14,Asia,1,0
+Sri Lanka,2020-01-20,Asia,0,0
+Sri Lanka,2020-01-21,Asia,0,0
+Sri Lanka,2020-01-22,Asia,0,0
+Sri Lanka,2020-01-23,Asia,0,0
+Sri Lanka,2020-01-24,Asia,0,0
+Sri Lanka,2020-01-25,Asia,0,0
+Sri Lanka,2020-01-26,Asia,0,0
+Sri Lanka,2020-01-27,Asia,1,0
+Sri Lanka,2020-01-28,Asia,1,0
+Sri Lanka,2020-01-29,Asia,1,0
+Sri Lanka,2020-01-30,Asia,1,0
+Sri Lanka,2020-01-31,Asia,1,0
+Sri Lanka,2020-02-01,Asia,1,0
+Sri Lanka,2020-02-02,Asia,1,0
+Sri Lanka,2020-02-03,Asia,1,0
+Sri Lanka,2020-02-04,Asia,1,0
+Sri Lanka,2020-02-05,Asia,1,0
+Sri Lanka,2020-02-06,Asia,1,0
+Sri Lanka,2020-02-07,Asia,1,0
+Sri Lanka,2020-02-08,Asia,1,0
+Sri Lanka,2020-02-09,Asia,1,0
+Sri Lanka,2020-02-10,Asia,1,0
+Sri Lanka,2020-02-11,Asia,1,0
+Sri Lanka,2020-02-12,Asia,1,0
+Sri Lanka,2020-02-13,Asia,1,0
+Sri Lanka,2020-02-14,Asia,1,0
