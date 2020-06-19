@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Corona Virus Statistics</title>
+
+  <!-- Custom fonts for this template-->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template-->
+  <link href="css/sb-admin-2.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Page Wrapper -->
+  <div id="wrapper">
+
+    <!-- Sidebar -->
+    <ul class="navbar-nav bg-gradient-info sidebar sidebar-dark accordion" id="accordionSidebar">
+
+      <!-- Sidebar - Brand -->
+      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+        <div class="sidebar-brand-icon rotate-n-15">
+          <i class="fas fa-laugh-wink"></i>
+        </div>
+        <div class="sidebar-brand-text mx-3">A1B3</div>
+      </a>
+
+      <!-- Divider -->
+      <hr class="sidebar-divider my-0">
+
+      <!-- Nav Item - Dashboard -->
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">
+          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <span>Covid-19</span></a>
+      </li>
+
+      <!-- Divider -->
+      <hr class="sidebar-divider">
+
+      <!-- Heading -->
+      <div class="sidebar-heading">
+        2차원 애니메이션 그래픽 차트
+      </div>
+
+      <!-- Nav Item - Pages Collapse Menu -->
+      <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+          <i class="fas fa-fw fa-cog"></i>
+          <span>대륙별</span>
+        </a>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+          <div class="bg-white py-2 collapse-inner rounded">
+            <h6 class="collapse-header">발생 동향</h6>
+            <a class="collapse-item" href="asia.html">아시아</a>
+            <a class="collapse-item" href="north_america.html">북아메리카</a>
+            <a class="collapse-item" href="europe.html">유럽</a>
+          </div>
+        </div>
+      </li>
+
+      <!-- Nav Item - 한국 Collapse Menu -->
+      <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
+          <i class="fas fa-fw fa-wrench"></i>
+          <span>한국</span>
+        </a>
+        <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
+          <div class="bg-white py-2 collapse-inner rounded">
+            <h6 class="collapse-header">발생 동향</h6>
+            <a class="collapse-item" href="city_n_province.html">시도별 확진자</a>
+            <a class="collapse-item" href="byAge.html">연령별 확진자</a>
+            <a class="collapse-item" href="cumulative_inspection.html">누적 검사 현황</a>
+          </div>
+        </div>
+      </li>
+
+      <!-- Divider -->
+      <hr class="sidebar-divider">
+
+      <!-- Heading -->
+      <div class="sidebar-heading">
+        코로나 19
+      </div>
+
+       <!-- 코로나 19에 대한 정의 -->
+       <li class="nav-item">
+        <a class="nav-link" href="corona_def.html">  
+          <i class="fas fa-fw fa-chart-area"></i>
+          <span>코로나 19란?</span></a>
+      </li>
+
+
+
+      <!-- 코로나 19 한국 정책 -->
+      <li class="nav-item">
+        <a class="nav-link" href="policy.html">  
+          <i class="fas fa-fw fa-chart-area"></i>
+          <span>정책</span></a>
+      </li>
+
+
+
+      <!-- Divider -->
+      <hr class="sidebar-divider d-none d-md-block">
+
+      <!-- Sidebar Toggler (Sidebar) -->
+      <div class="text-center d-none d-md-inline">
+        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+      </div>
+
+    </ul>
+    <!-- End of Sidebar -->
+
+    <!-- Content Wrapper -->
+    <div id="content-wrapper" class="d-flex flex-column">
+
+      <!-- Main Content -->
+      <div id="content">
+
+        <!-- Topbar -->
+        <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+
+          <h1 class="h3 mb-0 text-gray-800">피해 지원 정책</h1>
+
+          <!-- Topbar Navbar -->
+          <ul class="navbar-nav ml-auto"></ul>
+          
+
+        </nav>
+        <!-- End of Topbar -->
+
+        <!-- Begin Page Content -->
+        <div class="container-fluid">
+
+          <!-- Page Heading -->
+
+          <div class="row">
+
+            <!-- Earnings (Monthly) Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-primary shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">20년 코로나19 극복 예산안</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">총 150조 원</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Earnings (Monthly) Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-success shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-success text-uppercase mb-1">20년 코로나19 극복 추경</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">7.6조 원</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Earnings (Monthly) Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-info shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-info text-uppercase mb-1">긴급고용지원금</div>
+                      <div class="row no-gutters align-items-center">
+                        <div class="col-auto">
+                          <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">총 10조 원</div>
+                        </div>
+                        <div class="col">
+                          <div class="progress progress-sm mr-2">
+                            <div class="progress-bar bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Pending Requests Card Example -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-warning shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">기간산업안전기금</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">40조 원</div>
+                    </div>
+                    <div class="col-auto">
+                      <i class="fas fa-comments fa-2x text-gray-300"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+
+            <div class="col-lg-6">
+
+              <!-- Default Card Example -->
+              <div class="card mb-4">
+                <div class="card-header">
+                  <h6 class="m-0 font-weight-bold text-danger">긴급 재난 지원금</h6>
+                  
+                </div>
+                <div class="card-body">
+                  <ul>
+                    <li>대상자  : 소득/재산과 상관없이 대한민국 모든 국민 <br></li>
+                    <li>대상자 조회 방법 : <br>
+                      <ol start = "1">
+                        <li>조회 기간 : 2020. 5. 4 (월) 09:00 ~ </li>
+                        <li>조회 방법 : <a target="_blank" rel="nofollow" href="https://www.xn--jj0bb2kr6h965bxcbp8g.kr/checkRegForm.jsp">https://긴급재난지원금.kr</a> 접속 -> 공인인증서 로그인[세대주만 가능] -> 조회</li>
+                      </ol>
+                    </li>
+                    <li>지원금 신청 방법 : <br>
+                      <ol start = "1">
+                        <li>대상 가구의 세대주가 신청</li>
+                        <li>온라인/오프라인 신청 시 혼잡을 피하기 위해 '요일제' 시행 <br>
+                          (월) 1, 6    (화) 2, 7    (수) 3, 8    (목) 4, 9    (금) 5, 0    (토,일) 모두 <br>
+                          [출생연도 끝자리별로 신청요일 제한, 토/일 방문접수 불가]<br>
+                          [주의! 카드사 온라인 신청은 5.16부터 '요일제'제외]<br> 
+                        </li>
+                      </ol>
+                    </li>
+                    <li>기타 안내 사항 : <br>
+                      <ol type="I">
+                        <li>이의 신청 방법 :<br>
+                          <ol type="i">
+                            <li>신청 기간 : 5. 4. (월) ~<br></li>
+                            <li>신청 방법 : 주민센터 방문 -> 증빙서류 제출 -> 검토 후 의견 통보 -> 지원금 신청<br>
+                              [* 구체적 이의 신청 일정 등은 지자체별 일부 변동 가능]
+                            </li>
+                          </ol>
+                        </li>
+                        <li>지원금 사용 안내 : <br>
+                          <ul>
+                            <li>2020. 8. 31 까지 사용</li>
+                            <li>사용지역, 업종, 온라인 사용에 일부 제한</li>
+                            <li>잔액은 환급 불가</li>
+                          </ul>
+                        </li>
+                      </ol>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              <!-- Basic Card Example -->
+              <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                  <h6 class="m-0 font-weight-bold text-info">경제사정이 어려운 대학생을 위한 학자금 지원</h6>
+                </div>
+                <div class="card-body">
+                  경제사정이 어려운 대학생 부담 경감을 위해 교육부와 한국장학재단이 학자금 지원을 추진합니다. <br>
+                  <ol type="1">
+                    <li>학자금 대출 금리
+                      <ul>
+                        <li>취업후상환대출(변동금리)의 경우 -> 기존 대출자도 7월부터 1.85% 금리 적용</li>
+                        <li>일반상환대출(고정금리)의 경우 -> 2020년 2학기 신규 대출자부터 1.85% 금리 적용</li>
+                      </ul>
+                    </li>
+                    <li>본인 또는 부모의 실직/폐업 시 일반상환 학자금 대출 상환 유예 및 국가 장학금 2 유형 우선/추가 지원
+                      <ul>
+                        <li>신청 기간 : 2020. 5. 4. (월) ~ 2020. 12. 31. (목)</li>
+                        <li>신청 방법 : <a target="_blank" rel="nofollow" href="http://www.kosaf.go.kr/">한국장학재단 누리집</a> 온라인 신청<br>
+                          [* 국가 장학금 2 유형 지원은 대학별 별도 공고/선발 ]
+                        </li>
+                      </ul>
+                    </li>
+                    <li>2009년 이전 대출자 금리 최고 7.8% -> 2.9% 전환 대출
+                      <ul>
+                        <li>신청 기간 : 2020. 4. 27. (월) ~ 2021. 3. 22. (월) 18:00</li>
+                        <li>신청 방법 : <a target="_blank" rel="nofollow" href="http://www.kosaf.go.kr/">한국장학재단 누리집</a> 온라인 신청</li>
+                      </ul>
+                    </li>
+                    <li>2009년 이전 정부보증 학자금 대출 장기연체자 연체 이자 대폭 감면
+                      <ul>
+                        <li>신청 기간 : 2020. 4. 27. (월) ~ 2021. 3. 23. (화) 18:00</li>
+                        <li>신청 방법 : <a target="_blank" rel="nofollow" href="http://www.kosaf.go.kr/">한국장학재단 누리집</a> 온라인 신청</li>
+                      </ul>
+                    </li>
+                  </ol>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="col-lg-6">
+
+              <!-- Dropdown Card Example -->
+              <div class="card shadow mb-4">
+                <!-- Card Header - Dropdown -->
+                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                  <h6 class="m-0 font-weight-bold text-info">코로나19 위기 대응 고용안정 특별대책</h6>
+                </div>
+                <!-- Card Body -->
+                <div class="card-body">
+                 
+                  <ol type ="1">
+                    <li><strong>재직자 고용유지</strong>
+                      <ol type="a">
+                        <li><strong>특별고용지원업종지정 확대</strong><br>
+                          항공지상조업, 면세점업, 전시/국제회의업, 공항버스 추가 지정<br>
+                          * 현재 : 여행업, 관광/숙박업, 관광운송업, 공연업, 조선업 등 5개                          
+                        </li>
+                        <li><strong>무급휴직 신속지원 프로그램 신설</strong><br>
+                          급격한 경영 악화로 곧바로 무급휴직이 필요한 사업장<br>
+                          +32만명, 월 50만원 x 3개월 (예산) 4,800억원
+                        </li>
+                        <li><strong>고용유지자금 융자사업 신설</strong><br>
+                          휴업수당 등 지급이 어려워 고용유지지원금을 신청하지 못하는 사업장에 대한 융자 (예산) 1,000억원
+                        </li>
+                        <li><strong>고용유지협약 사업장 인건비 지원</strong><br>
+                          노사 '고용유지협약'체결 -> 고용유지(일정기간)<br>
+                          임금감소분 일정비율 x 6개월 (예산) 500억원
+                        </li>
+                      </ol>
+                    </li><br>
+                    <li><strong>코로나19 긴급 고용안정 지원금</strong><br>
+                      코로나19로 소득매출이 급감한 영세 자영업자, 프리랜서, 무급휴직 근로자 등 지원<br>
+                      +93만명, 월 50만원 x 3개월 (예산) 1조 5,000억원
+                    </li><br>
+                    <li><strong>공공/청년 일자리 창출</strong><br>
+                      <ol type="i">
+                        <li><strong>비대면/디지털 정부일자리 창출</strong><br>
+                          +10만명, (예산) 1조원
+                        </li>
+                        <li><strong>취약계층 공공일자리 창출</strong><br>
+                          +30만명, (예산) 1조 5,000억원
+                        </li>
+                        <li><strong>청년 디지털 일자리 지원</strong><br>
+                          +5만명, 월 최대 180만원 (예산) 5,000억원
+                        </li>
+                        <li><strong>청년 일경험 지원</strong><br>
+                          +5만명, (예산) 2,400억원
+                        </li>
+                      </ol>
+                    </li><br>
+                    <li><strong>실업자 등 생계 및 재취업 지원</strong><br>
+                      <ol type="i">
+                        <li><strong>구직급여 규모 확대</strong><br>
+                          +10만명 (예산) 1조원
+                        </li>
+                        <li><strong>청년구직활동지원금 확대</strong><br>
+                          +30만명 (예산) 1조 5,000억원
+                        </li>
+                        <li><strong>취업성공패키지 확대</strong><br>
+                          +5만명, 월 최대 180만원 (예산) 5,000억원
+                        </li>
+                        <li><strong>직업훈련 생계비 대부</strong><br>
+                          +2만명, (예산) 1,000억원
+                        </li>
+                      </ol>
+                    </li>
+                  </ol>
+                </div>
+              </div>
+
+              <!-- Collapsable Card Example -->
+              <div class="card shadow mb-4">
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+        <!-- /.container-fluid -->
+
+      </div>
+      <!-- End of Main Content -->
+
+      <!-- Footer -->
+      <footer class="sticky-footer bg-white">
+        <div class="container my-auto">
+          <div class="copyright text-center my-auto">
+            <span>Copyright &copy; A1B3 2020</span>
+          </div>
+        </div>
+      </footer>
+      <!-- End of Footer -->
+
+    </div>
+    <!-- End of Content Wrapper -->
+
+  </div>
+  <!-- End of Page Wrapper -->
+
+  <!-- Scroll to Top Button-->
+  <a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+  </a>
+
+ 
+
+  <!-- Bootstrap core JavaScript-->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Core plugin JavaScript-->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for all pages-->
+  <script src="js/sb-admin-2.min.js"></script>
+
+</body>
+
+</html>
